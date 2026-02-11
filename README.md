@@ -1,22 +1,22 @@
-# 🚀 YOUR_NAME  
+# 🚀 ANUSHA R 
 
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+YOUR_NAME;💻+YOUR_ROLE;🚀+YOUR_SPECIALIZATION;🌟+Open+to+Collaborations!;🎯+YOUR_TAGLINE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+Anusha R;💻+Full stack developer;🚀+Python;🌟+Open+to+Collaborations!;🎯+Full Stack | Problem Solver | Tech Enthusiast" />
 </h1>
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/anusha-r-anu">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anusha99020">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:anushaamys@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -36,41 +36,32 @@
 
 ## 🎯 About Me
 
-YOUR_SHORT_INTRODUCTION_PARAGRAPH
+Detail-oriented recent Engineering graduate specializing in Electronics and Communication with strong knowledge of python, basic LabVIEW, electronic components, circuits, and quality processes. Seeking an entry-level  role to apply my analytical skill and understanding of electronics to ensure quality compliance and continuous improvement.  
 
-Example:
-Passionate Full Stack Developer specializing in scalable backend systems.
-Love building efficient applications and exploring AI/ML integration.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
-• Language 3  
+• Python 
+• C
 
 ### 🚀 Backend
-• Framework 1  
-• Framework 2  
-• Framework 3  
-
+• Django 
+ 
 ### 💅 Frontend
-• React / Vue / Angular  
-• HTML / CSS  
-• Tailwind / Bootstrap  
+• React js  
+• HTML, CSS  
 
 ### 🗄️ Databases
-• PostgreSQL  
 • MySQL  
-• MongoDB  
 
 ### ⚙️ DevOps & Tools
 • Git  
-• Docker  
-• AWS  
-• Linux  
+• IDLE 
+• ORACLE
+• VS code
 
 ---
 
@@ -90,7 +81,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusha99020&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
@@ -134,8 +125,8 @@ I’m open to working on:
 
 ## 📬 Connect With Me
 
-📧 Email: YOUR_EMAIL  
-🔗 LinkedIn: YOUR_LINKEDIN_URL  
+📧 Email: anushaamys@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/anusha-r-anu    
 🌐 Portfolio: YOUR_PORTFOLIO_URL  
 
 ---
