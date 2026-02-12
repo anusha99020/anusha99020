@@ -90,25 +90,18 @@ Detail-oriented recent Engineering graduate specializing in Electronics and Comm
 ## 🏆 Featured Projects
 
 ### 🔹 PROJECT_NAME_1
-**Description:** Short description of your project.  
-**Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
-
----
-
-### 🔹 PROJECT_NAME_2
-**Description:** Short description of your project.  
-**Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+**Description:** Customer journey analysis.  
+**Tech Stack:** AI-ML, Data Analysis.
+**GitHub:** https://github.com/anusha99020/PROJECT_REPO   
 
 ---
 
 ## 📚 Current Goals
 
-- [ ] Goal 1  
-- [ ] Goal 2  
-- [ ] Goal 3  
-- [ ] Certification / Learning  
+- [ ] Turning ideas into scalable full stack solutions.
+- [ ] Improve problem-solving through daily coding
+- [ ] Implement authentication & secure applications
+- [ ] Good in PLC and Idustrial IoT.
 
 ---
 
