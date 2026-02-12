@@ -44,8 +44,7 @@ Detail-oriented recent Engineering graduate specializing in Electronics and Comm
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Python 
-• C
+• Python  • C
 
 ### 🚀 Backend
 • Django 
@@ -58,10 +57,7 @@ Detail-oriented recent Engineering graduate specializing in Electronics and Comm
 • MySQL  
 
 ### ⚙️ DevOps & Tools
-• Git  
-• IDLE 
-• ORACLE
-• VS code
+• Git  • IDLE • ORACLE • VS code
 
 ---
 
