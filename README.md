@@ -97,7 +97,7 @@ Detail-oriented recent Engineering graduate specializing in Electronics and Comm
 - [ ] Turning ideas into scalable full stack solutions.
 - [ ] Improve problem-solving through daily coding
 - [ ] Implement authentication & secure applications
-- [ ] Good in PLC and Idustrial IoT.
+- [ ] Upgrading PLC and Idustrial IoT knowledge.
 
 ---
 
