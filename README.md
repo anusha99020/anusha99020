@@ -88,7 +88,6 @@ Detail-oriented recent Engineering graduate specializing in Electronics and Comm
 ### 🔹 PROJECT_NAME_1
 **Description:** Customer journey analysis.  
 **Tech Stack:** AI-ML, Data Analysis.
-
 **GitHub:** https://github.com/anusha99020/ZenVInnovations/4.-customer-journey-analysis-using-clustering-and-dimensionality-reduction---25296292  
 
 ---
